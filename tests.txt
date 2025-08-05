@@ -1,0 +1,6 @@
+# List of non-unit tests
+
+# out of bounds in game
+# trying to play a square already played
+# make sure winner is declared
+# if there is a draw, draw should be announced
